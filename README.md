@@ -1,8 +1,9 @@
-# Namaste React
+# Namaste React 🚀
 
-## creating react project using cdn links
+## Creating react project using cdn links
 
-```<script
+```
+<script
       crossorigin
       src="https://unpkg.com/react@17/umd/react.development.js"
     ></script>
@@ -24,8 +25,6 @@ const root = document.getElementById("root");
 ReactDOM.render(heading, root);
 
 ```
+
 createElement has 3 arguments: the tag, its attributes and children
 If you want to send many children then pass them into an array.
-
-
-
